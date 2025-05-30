@@ -1,5 +1,3 @@
-# config.py
-
-UPLOAD_FOLDER = "uploads"
-FAISS_INDEX_PATH = "faiss.index"
-LOG_FILE = "logs/app.log"
+UPLOAD_FOLDER = 'uploads'
+INDEX_FOLDER = 'faiss_index'
+LOG_FILE = 'logs/faiss_log.log'
