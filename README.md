@@ -11,7 +11,7 @@
 
 *🚀 Transform your PDFs into searchable, intelligent documents with semantic search capabilities*
 
-[Demo](#-demo) • [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-how-it-works)
+[Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-how-it-works)
 
 </div>
 
@@ -163,16 +163,6 @@ graph TD
 4. **🗃️ FAISS Indexing**: Vectors are stored in a FAISS index for ultra-fast retrieval
 5. **🔍 Semantic Search**: User queries are embedded and matched against document vectors
 6. **🎯 Smart Results**: Top-K most similar pages are returned with context and highlights
-
----
-
-## 🎯 Demo
-
-### Upload Interface
-![Upload Demo](https://via.placeholder.com/800x400/4CAF50/white?text=Upload+Your+PDF+%E2%86%92+Drag+%26+Drop+or+Browse)
-
-### Search Results
-![Search Demo](https://via.placeholder.com/800x400/2196F3/white?text=Semantic+Search+Results+%E2%86%92+Context-Aware+Matching)
 
 ---
 
@@ -385,8 +375,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 ### ⭐ Star this repository if you found it helpful!
-
-**Made with ❤️ and lots of ☕**
 
 [⬆️ Back to Top](#-thinkdocs)
 
