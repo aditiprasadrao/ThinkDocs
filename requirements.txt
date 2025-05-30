@@ -1,0 +1,6 @@
+Flask
+loguru
+faiss-cpu
+sentence-transformers
+PyMuPDF
+torch
